@@ -1,8 +1,8 @@
 ## 👋 Hello!
 
-With a passion for Linux and system development, I am currently working on multiple projects using **Arch Linux** as my main environment. In the past, I gained extensive experience in system development using Java and Oracle. Currently, I am taking on the challenge of learning C++ while working on a custom IME for Japanese input.
+➡️ **[日本語で表示する](README.md)** ⬅️
 
-[日本語版はこちら](README.md)
+With a passion for Linux and system development, I am currently working on multiple projects using **Arch Linux** as my main environment. In the past, I gained extensive experience in system development using Java and Oracle. Currently, I am taking on the challenge of learning C++ while working on a custom IME for Japanese input.
 
 ### 🔧 Skill Set
 - **Languages**: Python, Bash, zsh, Java (EJB, Servlet, JSP), C
