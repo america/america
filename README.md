@@ -14,16 +14,16 @@ With a passion for Linux and system development, I am currently working on multi
 - **Languages**: Python, Bash, zsh, Java (EJB, Servlet, JSP), C
 - **Technologies**: Arch Linux, Systemd, Neovim, Git, ElasticSearch, Oracle, DB2
 - **Tools**: Eclipse, TeraTerm, rsync, cron, NetBackUp
-- **Operating Systems**: Solaris, Windows, Ubuntu (バックアップ環境構築 on mini PC)
+- **Operating Systems**: Solaris, Windows, Ubuntu (mini PCでのバックアップ環境構築 / Backup environment setup on mini PC)
 
 ---
 
 ### 🚀 進行中のメインディッシュプロジェクト / Ongoing Main Projects
-- **OS Development**: 独自OSの開発 - 低レベルのシステムプログラミングを学び、システムの基礎から構築中。
-- **Custom IME Creation**: 日本語入力対応のIMEをC++で作成中 - 快適な日本語入力体験を提供することを目指しています。
-- **Programming Language Creation**: 独自のプログラミング言語の開発 - 個別のニーズに対応する新しい言語仕様を設計。
-- **Arch Linux Backup Project**: mini PC上でのバックアップ環境構築 - rsyncとcronを活用し、信頼性のあるバックアップを実現。
-- **Scrapbox Full-Text Search**: ElasticSearchを利用したScrapbox全プロジェクトの横断検索システムの構築
+- **OS開発 / OS Development**: 独自OSの開発 - 低レベルのシステムプログラミングを学び、システムの基礎から構築中 / Developing a custom OS - Learning low-level system programming and building from the ground up.
+- **カスタムIMEの作成 / Custom IME Creation**: 日本語入力対応のIMEをC++で作成中 - 快適な日本語入力体験を提供することを目指しています / Creating a Japanese input IME in C++ - Aiming to provide a smooth Japanese input experience.
+- **プログラミング言語の開発 / Programming Language Creation**: 独自のプログラミング言語の開発 - 個別のニーズに対応する新しい言語仕様を設計 / Developing a new programming language - Designing a language tailored to specific needs.
+- **Arch Linuxバックアッププロジェクト / Arch Linux Backup Project**: mini PC上でのバックアップ環境構築 - rsyncとcronを活用し、信頼性のあるバックアップを実現 / Setting up a backup environment on a mini PC - Implementing reliable backups with rsync and cron.
+- **Scrapbox全文検索 / Scrapbox Full-Text Search**: ElasticSearchを利用したScrapbox全プロジェクトの横断検索システムの構築 / Building a cross-project full-text search system for Scrapbox using ElasticSearch.
 
 ---
 
